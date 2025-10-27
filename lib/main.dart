@@ -1,3 +1,5 @@
+  //sdk: '>=3.0.6 <4.0.0'
+
 import 'package:canvas_app/auth/login_scren.dart';
 import 'package:canvas_app/canvas/canvas_room.dart';
 import 'package:canvas_app/screens/image_edit.dart';
